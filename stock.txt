@@ -1,0 +1,10 @@
+Puffer Jacket,Burberry,$45,35
+Denim Vest,Calvin Klein,$47.24,40
+Zebra Print,Valentino,$3300,30
+Graphic Bomber,Louis Vuitton,$31.25,25
+Women's Shorts,Lululemon,$30,35
+Big size Shirt,Newlooks,$28.68,50
+Formal Shirt,Eric Store,$15,30
+Casual T-shirt,Ambani store,$45,25
+Jeans Pants,Tag Heuer,$30,30
+Wrap Dress,Elietahari,$450,20
